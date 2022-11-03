@@ -178,7 +178,7 @@ OPERAÇÕES DO TERMINAL
 10 - Terminar comunicação activa
 11 - Mostrar comunicação em curso
 0 - Sair
-Escolha uma opção: Duração da comunicação (em minutos): Custo da comunicação: 40 unidades.
+Escolha uma opção: Duração da comunicação (em minutos): Custo da comunicação: 20 unidades.
 OPERAÇÕES DO TERMINAL
 1 - Ligar
 2 - Colocar no silêncio
@@ -229,7 +229,7 @@ OPERAÇÕES DO TERMINAL
 9 - Iniciar comunicação
 11 - Mostrar comunicação em curso
 0 - Sair
-Escolha uma opção: Valores para o terminal '969011':770 (pagamentos),  0 (dívidas).
+Escolha uma opção: Valores para o terminal '969011':750 (pagamentos),  0 (dívidas).
 OPERAÇÕES DO TERMINAL
 1 - Ligar
 2 - Colocar no silêncio
@@ -266,7 +266,7 @@ Escolha uma opção: CONSULTAS
 0 - Sair
 Escolha uma opção: TEXT|1|969011|969001|8|10|FINISHED
 VIDEO|2|969011|969015|24|720|FINISHED
-VOICE|3|969011|969014|2|40|FINISHED
+VOICE|3|969011|969014|2|20|FINISHED
 CONSULTAS
 1 - Mostrar todas as comunicações
 2 - Mostrar comunicações feitas por um cliente
@@ -276,7 +276,7 @@ CONSULTAS
 6 - Mostrar terminais sem actividade
 7 - Mostrar terminais com saldo positivo
 0 - Sair
-Escolha uma opção: FANCY|969011|cli001|IDLE|770|0
+Escolha uma opção: FANCY|969011|cli001|IDLE|750|0
 CONSULTAS
 1 - Mostrar todas as comunicações
 2 - Mostrar comunicações feitas por um cliente
