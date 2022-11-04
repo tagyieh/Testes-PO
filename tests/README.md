@@ -16,6 +16,8 @@
 
 **test05_a** - addFriend
 
+**test06_a** - testa notificações (texto e interactive from off to idle)
+
 **test4** - testa passagem NORMAL -> GOLD
 
 **test5** - testa passagem NORMAL -> GOLD -> NORMAL
