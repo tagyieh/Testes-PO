@@ -14,6 +14,8 @@
 
 **test04_a** - terminal comunicar com ele próprio
 
+**test05_a** - addFriend
+
 **test4** - testa passagem NORMAL -> GOLD
 
 **test5** - testa passagem NORMAL -> GOLD -> NORMAL
