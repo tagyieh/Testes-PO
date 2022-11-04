@@ -20,6 +20,8 @@
 
 **test07_a** - testa notificações (texto from off to silent e interactive from silent to idle)
 
+**test08_a** - testa notificações (voice from busy to silent to idle)
+
 **test4** - testa passagem NORMAL -> GOLD
 
 **test5** - testa passagem NORMAL -> GOLD -> NORMAL
