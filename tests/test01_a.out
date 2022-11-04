@@ -455,6 +455,82 @@ MENU PRINCIPAL
 5 - Menu de consultas
 6 - Ver saldo global
 0 - Sair
+Escolha uma opção: GESTÃO DE TERMINAIS
+1 - Mostrar todos os terminais
+2 - Registar terminal
+3 - Operações de terminal
+0 - Sair
+Escolha uma opção: Número do terminal: OPERAÇÕES DO TERMINAL
+1 - Ligar
+2 - Colocar no silêncio
+3 - Desligar
+4 - Adicionar amigo
+5 - Retirar amigo
+6 - Pagamento
+7 - Consultar saldo
+8 - Enviar comunicação de texto
+9 - Iniciar comunicação
+11 - Mostrar comunicação em curso
+0 - Sair
+Escolha uma opção: Número do terminal: Tipo de comunicação a iniciar (VOICE, VIDEO): OPERAÇÕES DO TERMINAL
+1 - Ligar
+2 - Colocar no silêncio
+3 - Desligar
+4 - Adicionar amigo
+5 - Retirar amigo
+6 - Pagamento
+7 - Consultar saldo
+10 - Terminar comunicação activa
+11 - Mostrar comunicação em curso
+0 - Sair
+Escolha uma opção: Duração da comunicação (em minutos): Custo da comunicação: 30 unidades.
+OPERAÇÕES DO TERMINAL
+1 - Ligar
+2 - Colocar no silêncio
+3 - Desligar
+4 - Adicionar amigo
+5 - Retirar amigo
+6 - Pagamento
+7 - Consultar saldo
+8 - Enviar comunicação de texto
+9 - Iniciar comunicação
+11 - Mostrar comunicação em curso
+0 - Sair
+Escolha uma opção: Valores para o terminal '969007':0 (pagamentos),  30 (dívidas).
+OPERAÇÕES DO TERMINAL
+1 - Ligar
+2 - Colocar no silêncio
+3 - Desligar
+4 - Adicionar amigo
+5 - Retirar amigo
+6 - Pagamento
+7 - Consultar saldo
+8 - Enviar comunicação de texto
+9 - Iniciar comunicação
+11 - Mostrar comunicação em curso
+0 - Sair
+Escolha uma opção: GESTÃO DE TERMINAIS
+1 - Mostrar todos os terminais
+2 - Registar terminal
+3 - Operações de terminal
+0 - Sair
+Escolha uma opção: MENU PRINCIPAL
+1 - Abrir
+2 - Guardar
+3 - Gestão de clientes
+4 - Gestão de terminais
+5 - Menu de consultas
+6 - Ver saldo global
+0 - Sair
+Escolha uma opção: Valores globais: 10 (pagamentos),  80 (dívidas).
+MENU PRINCIPAL
+1 - Abrir
+2 - Guardar
+3 - Gestão de clientes
+4 - Gestão de terminais
+5 - Menu de consultas
+6 - Ver saldo global
+0 - Sair
 Escolha uma opção: CONSULTAS
 1 - Mostrar todas as comunicações
 2 - Mostrar comunicações feitas por um cliente
@@ -465,6 +541,7 @@ Escolha uma opção: CONSULTAS
 7 - Mostrar terminais com saldo positivo
 0 - Sair
 Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|10|30
+CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|30
 CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|20
 CONSULTAS
 1 - Mostrar todas as comunicações
@@ -538,7 +615,7 @@ Escolha uma opção: MENU PRINCIPAL
 5 - Menu de consultas
 6 - Ver saldo global
 0 - Sair
-Escolha uma opção: Valores globais: 40 (pagamentos),  20 (dívidas).
+Escolha uma opção: Valores globais: 40 (pagamentos),  50 (dívidas).
 MENU PRINCIPAL
 1 - Abrir
 2 - Guardar
@@ -602,7 +679,7 @@ Escolha uma opção: MENU PRINCIPAL
 5 - Menu de consultas
 6 - Ver saldo global
 0 - Sair
-Escolha uma opção: Valores globais: 60 (pagamentos),  0 (dívidas).
+Escolha uma opção: Valores globais: 60 (pagamentos),  30 (dívidas).
 MENU PRINCIPAL
 1 - Abrir
 2 - Guardar
