@@ -22,6 +22,8 @@
 
 **test08_a** - testa notificações (voice from busy to silent to idle)
 
+**test08_a** - testa notificações (voice from silent to idle com notificações ativas e desligadas)
+
 **test4** - testa passagem NORMAL -> GOLD
 
 **test5** - testa passagem NORMAL -> GOLD -> NORMAL
