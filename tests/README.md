@@ -13,3 +13,5 @@
 **test03_a** - testa se os Clientes estão a ser mostrados pela ordem correta, sem diferenciar maiúsculas e minúsculas.
 
 **test4** - testa passagem NORMAL -> GOLD
+
+**test5** - testa passagem NORMAL -> GOLD -> NORMAL
