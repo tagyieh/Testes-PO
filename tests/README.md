@@ -29,3 +29,5 @@
 **test7** - testa passagem NORMAL -> GOLD -> PLATINUM -> GOLD -> PLATINUM -> NORMAL
 
 **test8** - testa custo de mensagens em modo NORMAL (friend vs not friend)
+
+**test9** - testa custo de mensagens em modo GOLD (friend vs not friend)
