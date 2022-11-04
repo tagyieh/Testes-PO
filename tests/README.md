@@ -25,3 +25,5 @@
 **test5** - testa passagem NORMAL -> GOLD -> NORMAL
 
 **test6** - testa passagem NORMAL -> GOLD -> PLATINUM
+
+**test7** - testa passagem NORMAL -> GOLD -> PLATINUM -> GOLD -> PLATINUM -> NORMAL
