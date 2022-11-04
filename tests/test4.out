@@ -35,7 +35,7 @@ Escolha uma opção: Número do terminal: Mensagem de texto a enviar: OPERAÇÕE
 9 - Iniciar comunicação
 11 - Mostrar comunicação em curso
 0 - Sair
-Escolha uma opção: Valores para o terminal '969001':0 (pagamentos),  220 (dívidas).
+Escolha uma opção: Valores para o terminal '969001':0 (pagamentos),  660 (dívidas).
 OPERAÇÕES DO TERMINAL
 1 - Ligar
 2 - Colocar no silêncio
@@ -69,7 +69,7 @@ Escolha uma opção: GESTÃO DE CLIENTES
 5 - Desactivar notificações
 6 - Mostrar saldo de cliente
 0 - Sair
-Escolha uma opção: Identificador do cliente: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|220
+Escolha uma opção: Identificador do cliente: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|660
 GESTÃO DE CLIENTES
 1 - Visualizar cliente
 2 - Visualizar todos os clientes
@@ -115,7 +115,7 @@ Escolha uma opção: Número da comunicação: OPERAÇÕES DO TERMINAL
 9 - Iniciar comunicação
 11 - Mostrar comunicação em curso
 0 - Sair
-Escolha uma opção: Valores para o terminal '969001':220 (pagamentos),  0 (dívidas).
+Escolha uma opção: Valores para o terminal '969001':660 (pagamentos),  0 (dívidas).
 OPERAÇÕES DO TERMINAL
 1 - Ligar
 2 - Colocar no silêncio
@@ -149,7 +149,7 @@ Escolha uma opção: GESTÃO DE CLIENTES
 5 - Desactivar notificações
 6 - Mostrar saldo de cliente
 0 - Sair
-Escolha uma opção: Identificador do cliente: CLIENT|cli001|Manuel Pinheiro|103443|GOLD|YES|4|220|0
+Escolha uma opção: Identificador do cliente: CLIENT|cli001|Manuel Pinheiro|103443|GOLD|YES|4|660|0
 GESTÃO DE CLIENTES
 1 - Visualizar cliente
 2 - Visualizar todos os clientes
