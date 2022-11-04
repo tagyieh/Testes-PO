@@ -10,3 +10,5 @@
 
 **test02_a** - testa se os Clientes estão a ser mostrados pela ordem correta, sem diferenciar maiúsculas e minúsculas.
 **test03_a** - testa se os Clientes estão a ser mostrados pela ordem correta, sem diferenciar maiúsculas e minúsculas.
+
+**test04_a** - terminal comunicar com ele próprio
