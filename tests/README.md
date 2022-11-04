@@ -14,7 +14,7 @@
 
 **test04_a** - terminal comunicar com ele próprio
 
-**test05_a** - addFriend
+**test05_a** - addFriend e removeFriend
 
 **test06_a** - testa notificações (texto e interactive from off to idle)
 
